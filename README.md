@@ -8,5 +8,5 @@ Freelance Senior Android Developer
 - ⚡ Ask me about Android, Kotlin, Android vs iOS design language differences, Push Notifications, Digital Experiments
 - 💬 Personal interest in: Smart Tv apps & AOSP (namely Android Automotive)
 - 🧠 I'm curious about TensorFlow, Gemini and Kotlin Multi Platform
-- ⚡️ Fun fact: I'm into Calisthenics & occassionally play around with music production on FL Studio (when not on Android Studio)
+- ⚡️ Fun fact: I'm into Calisthenics & ocassionally play around with music production on FL Studio (when not on Android Studio)
 
